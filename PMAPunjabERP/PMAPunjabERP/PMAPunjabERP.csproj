@@ -39,15 +39,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="PMAControler">
-      <HintPath>..\PMAControler\bin\Debug\PMAControler.dll</HintPath>
-    </Reference>
-    <Reference Include="PMADatabase">
-      <HintPath>..\PMADatabase\bin\Debug\PMADatabase.dll</HintPath>
-    </Reference>
-    <Reference Include="PMAModel">
-      <HintPath>..\PMAModel\bin\Debug\PMAModel.dll</HintPath>
-    </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
