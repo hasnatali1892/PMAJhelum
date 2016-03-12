@@ -66,6 +66,40 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="MainWebSite\css\5grid\core-1000px.css" />
+    <Content Include="MainWebSite\css\5grid\core-1200px.css" />
+    <Content Include="MainWebSite\css\5grid\core-desktop.css" />
+    <Content Include="MainWebSite\css\5grid\core-fluid.css" />
+    <Content Include="MainWebSite\css\5grid\core-mobile.css" />
+    <Content Include="MainWebSite\css\5grid\core-noscript.css" />
+    <Content Include="MainWebSite\css\5grid\core.css" />
+    <Content Include="MainWebSite\css\5grid\html5shiv.js" />
+    <Content Include="MainWebSite\css\5grid\init.js" />
+    <Content Include="MainWebSite\css\5grid\mobileUI-beveled.css" />
+    <Content Include="MainWebSite\css\5grid\mobileUI-flat.css" />
+    <Content Include="MainWebSite\css\images\img01.png" />
+    <Content Include="MainWebSite\css\images\img02.png" />
+    <Content Include="MainWebSite\css\images\img03.png" />
+    <Content Include="MainWebSite\css\images\img04.png" />
+    <Content Include="MainWebSite\css\images\img06.png" />
+    <Content Include="MainWebSite\css\images\img07.png" />
+    <Content Include="MainWebSite\css\images\img09.png" />
+    <Content Include="MainWebSite\css\images\img10.png" />
+    <Content Include="MainWebSite\css\images\spacer.gif" />
+    <Content Include="MainWebSite\css\style-1000px.css" />
+    <Content Include="MainWebSite\css\style-desktop.css" />
+    <Content Include="MainWebSite\css\style-mobile.css" />
+    <Content Include="MainWebSite\css\style.css" />
+    <Content Include="MainWebSite\images\pics01.jpg" />
+    <Content Include="MainWebSite\images\pics02.jpg" />
+    <Content Include="MainWebSite\images\pics03.jpg" />
+    <Content Include="MainWebSite\images\pics04.jpg" />
+    <Content Include="MainWebSite\images\pics05.jpg" />
+    <Content Include="MainWebSite\index.html" />
+    <Content Include="MainWebSite\onecolumn.html" />
+    <Content Include="MainWebSite\threecolumn.html" />
+    <Content Include="MainWebSite\twocolumn1.html" />
+    <Content Include="MainWebSite\twocolumn2.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
