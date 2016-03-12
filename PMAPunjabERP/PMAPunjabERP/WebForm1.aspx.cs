@@ -4,7 +4,6 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using PMAControler;
 
 namespace PMAPunjabERP.PMAPunjabERP
 {
@@ -12,8 +11,7 @@ namespace PMAPunjabERP.PMAPunjabERP
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Class1 y = new Class1();
-            y.fun();
+            
         }
     }
 }
